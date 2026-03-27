@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Test {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int count = 0, sum = 0, e = 0, o = 0, max = -999999, min = 999999;
+        int count = 0, sum = 0, max = -999999, min = 999999;
         System.out.println("ใส่เลขไรก็ใส่จะหยุดใส่-1ให้มันหยุด");
 
         while (true) {
